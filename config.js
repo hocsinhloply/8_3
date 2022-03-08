@@ -1,5 +1,5 @@
 const nameGirl = 'Các vượn chị';
-const giftUrl = 'https://www.youtube.com/watch?v=g3-uN_H5QoE';
+const giftUrl = 'https://www.youtube.com/watch?v=RTclJOSfNDY';
 const eventName = 'Chúc Mừng 8-3';
 const titleCard = '';
 const contentCard = 'Chúc các chị vượn ra thủ đô thêm lực lưỡng, ăn lắm, khôn ra. Con nào thiếu thì sớm kiếm được 1 chú đực hoang dại để đính kèm đi kiếm ăn cho nhàn';
